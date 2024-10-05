@@ -1,0 +1,26 @@
+# Ignorar todos los archivos PHP
+*.php
+
+# Ignorar todos los archivos JavaScript
+*.js
+
+# Ignorar node_modules (si usas Node.js o herramientas como npm o yarn)
+node_modules/
+
+# Ignorar directorios de compilación (si usas herramientas como webpack)
+dist/
+build/
+
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar logs
+*.log
+
+# Ignorar carpetas temporales
+tmp/
+temp/
